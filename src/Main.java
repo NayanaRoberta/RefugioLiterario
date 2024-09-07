@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) throws ParseException {
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
         Loan loan = new Loan(1, 50.00f,1, 2345);
-        String returnDate = "14/09/2024";
+        String returnDate = "20/09/2024";
         Date date = sdf.parse(returnDate);
         loan.dateDelivery();
         loan.receipt();
