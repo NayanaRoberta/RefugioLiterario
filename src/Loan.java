@@ -49,7 +49,7 @@ public class Loan {
             System.out.println("__________________");
             System.out.println("Código do livro devolvido: " +this.id_book);
             System.out.print("Código do cliente: "+ this.customer_id);
-            System.out.println(" ");
+
             System.out.print("Parabéns! Sem multa por atraso!");
         }else{
             float multa = diasAtrasados * 0.70f;
