@@ -10,7 +10,7 @@ public class Main { //classe para testar o código;
         Loan loan = new Loan(1, 50.00f,1, 2345); //cria um novo objeto do tipo Loan(Empréstimo);
         loan.dateDelivery();
         loan.receipt();
-        loan.devolucao(sdf.parse("20/09/2024")); //chama a função devolução passando uma data do tipo string como parâmetro e a converte em milissegundos, para que possa ser utilizada na operação matemática da função.
+        loan.devolucao(sdf.parse("20/09/2024")); //chama a função "devolução" passando uma data do tipo string como parâmetro e a converte em milissegundos, para que possa ser utilizada na operação matemática da função.
     }
 
 }
