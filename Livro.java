@@ -12,7 +12,7 @@ public Livro(String titulo, String autor, String editora, int preco, String stat
 		this.autor = autor;
 		this.editora = editora;
 		this.preco = preco;
-		this. status = status
+		this. status = status;
 
 }
 
