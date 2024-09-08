@@ -44,7 +44,7 @@ public String getStatus() {
 @Override
 	
 public String toString() {
-	retur "Titulo: " + titulo + ", Autor: " + autor + ", Editora: " + editora + ", Preco: " + preco + ", Status: " + status +";
+	return "Titulo: " + titulo + ", Autor: " + autor + ", Editora: " + editora + ", Preco: " + preco + ", Status: " + status +";
 }
 
 }
