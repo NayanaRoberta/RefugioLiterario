@@ -40,7 +40,7 @@ public class Loan { //criação da classe Empréstimo
         System.out.print("Valor total do empréstimo: "+ this.total_amount);
         System.out.println(" ");
     }
-    public Date devolucao(Date devolution){ //função para devolução do livro;
+    public Date devolucao(Date devolution, int customer_id, int id_book){ //função para devolução do livro;
         this.devolution = devolution;
         long atrasoEmMilissegundos = this.devolution.getTime() - this.date_delivery.getTime(); //compara a data de devolução com a data prevista de entrega para verificar se houve atraso;
         long diasAtrasados = TimeUnit.MILLISECONDS.toDays(atrasoEmMilissegundos); //converte a data de milissegundos para dias;
