@@ -10,7 +10,7 @@ public class address {
 
         
         if (CEP.length() != 8 || !CEP.matches("\\d+")) {
-            throw new IllegalArgumentException(" O CEP deve conter 9 dígitos. Exemplo: 10101-101");
+            throw new IllegalArgumentException(" O CEP deve conter 9 dígitos. Exemplo: 10101101");
         }
 
         this.CEP = CEP;
