@@ -11,5 +11,5 @@ Curso de Análise e Desenvolvimento de Sistemas
 
 Este projeto tem como objetivo apresentar as principais classes implementadas em Java para um sistema de gerenciamento de biblioteca, detalhando o código-fonte e os processos de software adotados.
 
-### Objetivo
+### Objetivo!
 O projeto busca facilitar o gerenciamento de clientes e a locação de livros de maneira eficiente e organizada.
