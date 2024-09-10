@@ -8,6 +8,11 @@ public class address {
 
     public address(String CEP, String Rua, int Numero, String Bairro, String Cidade, String Estado) {
 
+        
+        if (CEP.length() != 8 || !CEP.matches("\\d+")) {
+            throw new IllegalArgumentException(" O CEP deve conter 9 dígitos. Exemplo: 10101-101");
+        }
+
         this.CEP = CEP;
         this.Rua = Rua;
         this.Numero = Numero;
