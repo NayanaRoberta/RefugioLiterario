@@ -1,6 +1,10 @@
+//Importar a  ArrayList para permite criar listas .
 import java.util.ArrayList;
+// Importar a List
 import java.util.List;
 
+
+//criando uma lista para guardar os livros
 public class Biblioteca {
     private List<Livro> Livros;
 
