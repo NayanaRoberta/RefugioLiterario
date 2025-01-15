@@ -33,7 +33,7 @@ Maior agilidade nas operações diárias.
 ### Objetivo!
 O projeto busca facilitar o gerenciamento de clientes e a locação de livros de maneira eficiente e organizada e tem como objetivo apresentar as principais classes implementadas em Java para um sistema de gerenciamento de biblioteca, detalhando o código-fonte e os processos de software adotados.
 
-PROJETO FÍSICO DE BANCO DE DADOS: SISTEMA DE BIBLIOTECA SIMPLES
+PROJETO FÍSICO DE BANCO DE DADOS: SISTEMA DE BIBLIOTECA SIMPLES https://docs.google.com/document/d/1J1oFv1JsLo00cpVEFJ0BXiiXARQHFjt9/edit
 
-DOCUMENTAÇÃO - WIREFRAME SISTEMA DE BIBLIOTECA SIMPLES
+DOCUMENTAÇÃO - WIREFRAME SISTEMA DE BIBLIOTECA SIMPLES https://docs.google.com/document/d/1J1oFv1JsLo00cpVEFJ0BXiiXARQHFjt9/edit
 
