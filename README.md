@@ -11,9 +11,9 @@ Curso de Análise e Desenvolvimento de Sistemas
 
 ## Descrição básica
 
-Principais Funcionalidades:
-• Cadastro de clientes com informações básicas (nome, endereço, telefone e e-mail).
-• Registro de empréstimos:
+*Principais Funcionalidades:
+*• Cadastro de clientes com informações básicas (nome, endereço, telefone e e-mail).
+*• Registro de empréstimos:
     • Associação de livros aos clientes.
     • Registro de datas de empréstimo e devolução.
 Usuários:
