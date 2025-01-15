@@ -9,7 +9,19 @@ Curso de Análise e Desenvolvimento de Sistemas
 * Flávia Gonçalves Amaro - 2023010665
 * Vitor Rafael da Silva - 2023010790
 
-Este projeto tem como objetivo apresentar as principais classes implementadas em Java para um sistema de gerenciamento de biblioteca, detalhando o código-fonte e os processos de software adotados.
+## Descrição básica
+
+Principais Funcionalidades:
+• Cadastro de clientes com informações básicas (nome, endereço, telefone e e-mail).
+• Registro de empréstimos:
+    • Associação de livros aos clientes.
+    • Registro de datas de empréstimo e devolução.
+Usuários:
+• Atendentes da biblioteca com acesso restrito ao sistema.
+Benefícios Esperados:
+• Melhor organização dos empréstimos e devoluções.
+• Redução de erros humanos.
+• Maior agilidade nas operações diárias.
 
 ### Objetivo!
-O projeto busca facilitar o gerenciamento de clientes e a locação de livros de maneira eficiente e organizada.
+O projeto busca facilitar o gerenciamento de clientes e a locação de livros de maneira eficiente e organizada e tem como objetivo apresentar as principais classes implementadas em Java para um sistema de gerenciamento de biblioteca, detalhando o código-fonte e os processos de software adotados.
